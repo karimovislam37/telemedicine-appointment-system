@@ -24,3 +24,6 @@
 ## Құжаттама
 - [Activity: қабылдауға жазылу](docs/analysis/activity-submit-application.png)
 - [Sequence: қабылдауға жазылу](docs/analysis/sequence-submit-application.png)
+
+
+Негізгі сценарий: пациенттің дәрігер қабылдауына онлайн жазылуы.
