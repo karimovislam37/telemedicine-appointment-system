@@ -24,6 +24,12 @@
 ## Құжаттама
 - [Activity: қабылдауға жазылу](docs/analysis/activity-submit-application.png)
 - [Sequence: қабылдауға жазылу](docs/analysis/sequence-submit-application.png)
+- [DFD: контекстік диаграмма](docs/analysis/dfd-context.png) ([drawio](docs/analysis/dfd-context.drawio))
+- [DFD: 0-деңгейлі диаграмма](docs/analysis/dfd-level0.png) ([drawio](docs/analysis/dfd-level0.drawio))
+- [DFD: 1-деңгейлі диаграмма](docs/analysis/dfd-level1.png) ([drawio](docs/analysis/dfd-level1.drawio))
+- [ERD: деректер қорының моделі](docs/database/erd.png) ([drawio](docs/database/erd.drawio))
+- [SQL: деректер қорының схемасы және сұраныстар](docs/database/schema.sql)
+- [SQL: сұраныстар нәтижесі](docs/database/query-results.png)
 
 
 Негізгі сценарий: пациенттің дәрігер қабылдауына онлайн жазылуы.
